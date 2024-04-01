@@ -1,0 +1,17 @@
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\bin\Debug\net6.0-windows\WpfCustomControlLibrary1.deps.json
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\bin\Debug\net6.0-windows\WpfCustomControlLibrary1.dll
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\bin\Debug\net6.0-windows\WpfCustomControlLibrary1.pdb
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1_MarkupCompile.cache
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1_MarkupCompile.lref
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\Themes\Generic.baml
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.g.resources
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.AssemblyInfoInputs.cache
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.AssemblyInfo.cs
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.dll
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\refint\WpfCustomControlLibrary1.dll
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\WpfCustomControlLibrary1.pdb
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\ref\WpfCustomControlLibrary1.dll
+E:\VS_project\CustomControl\WpfCustomControlLibrary1\obj\Debug\net6.0-windows\Themes\ColorPickerStyle.baml

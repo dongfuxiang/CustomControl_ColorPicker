@@ -1,0 +1,14 @@
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.csproj.AssemblyReference.cache
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary_MarkupCompile.cache
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary_MarkupCompile.lref
+E:\VS_project\ColorPicker\ColorLibrary\bin\Debug\ColorLibrary.dll
+E:\VS_project\ColorPicker\ColorLibrary\bin\Debug\ColorLibrary.pdb
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\Themes\ColorPickerStyle.baml
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\Themes\Generic.baml
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.g.resources
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.Properties.Resources.resources
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.csproj.GenerateResource.cache
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.csproj.CoreCompileInputs.cache
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.dll
+E:\VS_project\ColorPicker\ColorLibrary\obj\Debug\ColorLibrary.pdb

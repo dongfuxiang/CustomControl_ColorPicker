@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfAppUseCustomControl/1.0.0": {
+        "dependencies": {
+          "WpfCustomControlLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "WpfAppUseCustomControl.dll": {}
+        }
+      },
+      "WpfCustomControlLibrary1/1.0.0": {
+        "runtime": {
+          "WpfCustomControlLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppUseCustomControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WpfCustomControlLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

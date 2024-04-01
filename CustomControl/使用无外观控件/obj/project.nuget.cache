@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qKXSVBMao3hlNGlwMV1Pz/UjV77E/hkLafCBkmE5i9ifKSA71cNQ2wzjvuriJZiq0vs8XfD+lYbIb1AZdyVARA==",
+  "success": true,
+  "projectFilePath": "E:\\VS_project\\CustomControl\\使用无外观控件\\使用无外观控件.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://192.168.15.17:8000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WpfCustomControlLibrary1">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/WpfCustomControlLibrary1;component/Themes/ColorPickerStyle.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

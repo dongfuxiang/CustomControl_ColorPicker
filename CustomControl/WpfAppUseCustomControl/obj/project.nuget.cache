@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Bhw1IDKuJoGg8XVGi9IBt3fdYeBiF9xYjddN6zhsKzdCxmUh7xrCnVS8Dz6JIJt4MgqhqipkU7no7UKmxyzHQ==",
+  "success": true,
+  "projectFilePath": "E:\\VS_project\\CustomControl\\WpfAppUseCustomControl\\WpfAppUseCustomControl.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://192.168.15.17:8000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

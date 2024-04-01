@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "创建无外观的控件", "创建无外观的控件", "{EECC5394-C209-4F5E-B255-29C2B85C5441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCustomControlLibrary1", "WpfCustomControlLibrary1\WpfCustomControlLibrary1.csproj", "{6503E780-6A40-43F7-906D-3A8695F70676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppUseCustomControl", "WpfAppUseCustomControl\WpfAppUseCustomControl.csproj", "{A3ABD9C7-17D2-4BBD-B2F0-178B3533C805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6503E780-6A40-43F7-906D-3A8695F70676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6503E780-6A40-43F7-906D-3A8695F70676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6503E780-6A40-43F7-906D-3A8695F70676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6503E780-6A40-43F7-906D-3A8695F70676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ABD9C7-17D2-4BBD-B2F0-178B3533C805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ABD9C7-17D2-4BBD-B2F0-178B3533C805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ABD9C7-17D2-4BBD-B2F0-178B3533C805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ABD9C7-17D2-4BBD-B2F0-178B3533C805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6503E780-6A40-43F7-906D-3A8695F70676} = {EECC5394-C209-4F5E-B255-29C2B85C5441}
+		{A3ABD9C7-17D2-4BBD-B2F0-178B3533C805} = {EECC5394-C209-4F5E-B255-29C2B85C5441}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE8FCA4E-4BB0-410D-8059-5309EDAD2C88}
+	EndGlobalSection
+EndGlobal
